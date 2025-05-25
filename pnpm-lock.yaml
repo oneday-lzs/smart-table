@@ -1,0 +1,21 @@
+lockfileVersion: '9.0'
+
+settings:
+  autoInstallPeers: true
+  excludeLinksFromLockfile: false
+
+importers:
+
+  .: {}
+
+  doc: {}
+
+  packages/ant-table: {}
+
+  packages/constants: {}
+
+  packages/el-table: {}
+
+  packages/hooks: {}
+
+  packages/utils: {}
