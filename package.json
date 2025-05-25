@@ -1,0 +1,19 @@
+{
+	"private": true,
+	"packageManager": "pnpm@9.5.0",
+	"name": "smart-table",
+	"workspaces": [
+		"packages/*",
+		"play",
+		"docs"
+	],
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"dev": "pnpm -C play dev"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC"
+}
