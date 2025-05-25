@@ -13,7 +13,17 @@
 	"scripts": {
 		"dev": "pnpm -C play dev"
 	},
+	"peerDependencies": {
+		"vue": "^3.5.13"
+	},
+	"engines": {
+		"node": ">= 18"
+	},
 	"keywords": [],
 	"author": "",
-	"license": "ISC"
+	"license": "ISC",
+	"devDependencies": {
+		"@types/node": "^22.15.21",
+		"typescript": "^5.8.3"
+	}
 }
